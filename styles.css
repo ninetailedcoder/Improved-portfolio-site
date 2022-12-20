@@ -1,0 +1,55 @@
+body {
+    float: left;
+}
+
+#aboutmepic {
+    float: right;
+  	max-width: 500px;
+  	max-height: 600px;
+  	margin-left: 20px;
+}
+
+header {
+	white-space: nowrap;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1.5rem
+}
+
+nav{
+  display: inline-block;
+  float: right;
+}
+
+a{
+	text-decoration: none;
+  color: black
+}
+
+#waterfall{
+	width: 400px;
+  height: auto;
+}
+
+.contact{
+  display: inline-block;
+  width: 100px;
+  height: auto;
+  padding: 30px
+}
+
+#email{
+	width: 125%;
+}
+
+
+footer {
+	text-align: center;
+}
+
+
+
+
+
+
+
